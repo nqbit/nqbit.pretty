@@ -1,0 +1,9 @@
+(module RECT_10X6MM (layer F.Cu) (tedit 56D6839D)
+  (fp_text reference REF** (at 0 6.35) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value RECT_10X6MM (at 0 -6.477) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 6 10) (layers F.Cu F.Paste F.Mask))
+)
