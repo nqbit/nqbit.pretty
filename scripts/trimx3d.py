@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sys
 from xml.etree import ElementTree
 
