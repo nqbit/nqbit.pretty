@@ -1,4 +1,4 @@
-(module AVL34453 (layer F.Cu) (tedit 5E4B6075)
+(module AVL34453 (layer F.Cu) (tedit 5E4F6488)
   (fp_text reference P1 (at 0 4.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -21,9 +21,9 @@
   (pad C thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.35) (layers *.Cu *.Mask))
   (pad NO thru_hole circle (at 8.8 0) (size 2.5 2.5) (drill 1.35) (layers *.Cu *.Mask))
   (pad NC thru_hole circle (at 16.1 0) (size 2.5 2.5) (drill 1.35) (layers *.Cu *.Mask))
-  (model ../../../../../home/ndq/dev/NQBit.pretty/3dmodels/switch.x3d
+  (model "${ALT3DMOD}/AVL34453 v5.step"
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
