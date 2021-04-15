@@ -1,0 +1,84 @@
+(footprint "PinHeader_1x02_P2.54mm_Horizontal_Molex_705530001" (version 20210126) (generator pcbnew) (layer "F.Cu")
+  (tedit 60389DCA)
+  (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
+  (tags "Through hole pin header THT 1x02 2.54mm single row")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0.1016 -7.366) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f131bbd0-a2be-4a25-898e-6f8282c458a0)
+  )
+  (fp_text value "PinHeader_1x02_P2.54mm_Horizontal_Molex_705530001" (at 0.127 8.89) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 800d0293-51cf-488c-86f7-4b0dd78a0133)
+  )
+  (fp_text user "705530001" (at -0.0254 -4.8514) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b4d2fc2c-754d-45bc-851a-be1020e2b5c8)
+  )
+  (fp_text user "${REFERENCE}" (at 0 1.27 90) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b596a630-b6d2-440e-9f40-af526b019890)
+  )
+  (fp_line (start -1.498601 -1.904999) (end 0.660399 -1.904999) (layer "F.SilkS") (width 0.2) (tstamp 01d4b2a3-55aa-42e6-ab67-d5f217b88b10))
+  (fp_line (start -12.928599 -0.762) (end -12.928599 -1.143) (layer "F.SilkS") (width 0.2) (tstamp 388ffd3c-4cf0-498a-8e1b-350af03c1131))
+  (fp_line (start -12.928599 -2.412999) (end -1.498601 -2.412999) (layer "F.SilkS") (width 0.2) (tstamp 3901869a-0acc-4e03-83c0-85a3b157c3f3))
+  (fp_line (start -12.928599 1.778) (end -12.928599 0.762) (layer "F.SilkS") (width 0.2) (tstamp 509db606-f2e5-4874-8d19-60faebb7e58c))
+  (fp_line (start -12.928599 2.920999) (end -12.928599 1.778) (layer "F.SilkS") (width 0.2) (tstamp 75a57c38-34b6-46b1-9085-29e3eff16437))
+  (fp_line (start -11.658599 1.778) (end -4.0386 1.778) (layer "F.SilkS") (width 0.2) (tstamp 871b2fa0-5a95-4aba-b98f-c3b2b98e34de))
+  (fp_line (start 0.660399 4.444999) (end -1.498601 4.444999) (layer "F.SilkS") (width 0.2) (tstamp 8822d1f7-5dba-4754-aa62-eae5986b5de7))
+  (fp_line (start -12.928599 0.762) (end -12.928599 -0.380999) (layer "F.SilkS") (width 0.2) (tstamp 8fbcd777-7ebf-4874-af45-759943fe3ee9))
+  (fp_line (start 0.660399 3.5306) (end 0.660399 4.444999) (layer "F.SilkS") (width 0.2) (tstamp bd7524b2-48dc-4f3f-ab2e-74d88ccee790))
+  (fp_line (start -12.928599 4.952999) (end -12.928599 3.683) (layer "F.SilkS") (width 0.2) (tstamp c1368343-cae6-422a-b2f3-91b784fe633f))
+  (fp_line (start -12.928599 3.683) (end -12.928599 3.302) (layer "F.SilkS") (width 0.2) (tstamp c4f7f6e2-5463-4ec6-b6ae-248e3c1f027a))
+  (fp_line (start -1.498601 4.444999) (end -1.498601 4.952999) (layer "F.SilkS") (width 0.2) (tstamp ca854d68-2d41-47f4-adea-959ae1253f0f))
+  (fp_line (start -12.928599 3.302) (end -12.928599 2.920999) (layer "F.SilkS") (width 0.2) (tstamp cd14e02b-80c5-4b4a-8c1d-7821ac6819ec))
+  (fp_line (start -4.0386 0.762) (end -11.658599 0.762) (layer "F.SilkS") (width 0.2) (tstamp cf81aca0-07ec-41e5-b288-ae9101a8f473))
+  (fp_line (start -12.928599 -1.143) (end -12.928599 -2.412999) (layer "F.SilkS") (width 0.2) (tstamp d3bdbdd0-b3bd-4a78-8baa-0f803d7d4b1b))
+  (fp_line (start -1.498601 4.952999) (end -12.928599 4.952999) (layer "F.SilkS") (width 0.2) (tstamp d7949781-c0ed-408c-936d-05049acd0dbd))
+  (fp_line (start -4.0386 1.778) (end -4.0386 0.762) (layer "F.SilkS") (width 0.2) (tstamp dcee6636-8800-4ae2-9945-06e01aa03736))
+  (fp_line (start 0.660399 -1.904999) (end 0.6604 -1.143) (layer "F.SilkS") (width 0.2) (tstamp e807a9c8-98f1-405b-b0b3-5088bdbf4681))
+  (fp_line (start -12.928599 -0.380999) (end -12.928599 -0.762) (layer "F.SilkS") (width 0.2) (tstamp e95b8a43-670e-49a2-8b01-358ae2cf4de0))
+  (fp_line (start -1.498601 -2.412999) (end -1.498601 -1.904999) (layer "F.SilkS") (width 0.2) (tstamp f004594a-84c4-4e98-88a3-8fba053d51fa))
+  (fp_line (start -11.658599 0.762) (end -11.658599 1.778) (layer "F.SilkS") (width 0.2) (tstamp fb22c59d-d5b9-4cb3-b9c7-f5b696e5dfdf))
+  (fp_line (start 1.8 -1.8) (end -1.8 -1.8) (layer "F.CrtYd") (width 0.05) (tstamp 31773c97-fb0c-4d01-804d-383406dc9eaa))
+  (fp_line (start -1.8 -1.8) (end -1.8 4.35) (layer "F.CrtYd") (width 0.05) (tstamp 52bb7038-2e1b-4718-9d07-926ad40c614f))
+  (fp_line (start -1.8 4.35) (end 1.8 4.35) (layer "F.CrtYd") (width 0.05) (tstamp d81b97d0-9f5d-43a2-bf7a-935f9ed18707))
+  (fp_line (start 1.8 4.35) (end 1.8 -1.8) (layer "F.CrtYd") (width 0.05) (tstamp dc21955b-7544-4ebe-ae91-bc1e282b04ed))
+  (fp_line (start -1.27 3.81) (end -1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp 4957663a-ff73-4460-b631-d61f9670611f))
+  (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer "F.Fab") (width 0.1) (tstamp 69d75173-2c91-4f23-a730-bada9d638504))
+  (fp_line (start 1.27 -1.27) (end 1.27 3.81) (layer "F.Fab") (width 0.1) (tstamp d3c59c81-a4d1-4fdc-95e7-706233b0c9c0))
+  (fp_line (start -1.27 -0.635) (end -0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp e3fa2488-9d6d-493e-853a-39532f26f636))
+  (fp_line (start 1.27 3.81) (end -1.27 3.81) (layer "F.Fab") (width 0.1) (tstamp e90f9301-7d72-489c-b363-ec65b12da768))
+  (pad "1" thru_hole rect (at 0 0) (locked) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 3db31435-e06f-4349-8871-c2bd27fce950))
+  (pad "2" thru_hole oval (at 0 2.54) (locked) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 51c296d2-be31-4790-84e3-0ce2cfc02b76))
+  (group "" (id 92172b76-03ba-4f90-ba2a-b966fa1999b3)
+    (members
+      01d4b2a3-55aa-42e6-ab67-d5f217b88b10
+      388ffd3c-4cf0-498a-8e1b-350af03c1131
+      3901869a-0acc-4e03-83c0-85a3b157c3f3
+      509db606-f2e5-4874-8d19-60faebb7e58c
+      75a57c38-34b6-46b1-9085-29e3eff16437
+      871b2fa0-5a95-4aba-b98f-c3b2b98e34de
+      8822d1f7-5dba-4754-aa62-eae5986b5de7
+      8fbcd777-7ebf-4874-af45-759943fe3ee9
+      bd7524b2-48dc-4f3f-ab2e-74d88ccee790
+      c1368343-cae6-422a-b2f3-91b784fe633f
+      c4f7f6e2-5463-4ec6-b6ae-248e3c1f027a
+      ca854d68-2d41-47f4-adea-959ae1253f0f
+      cd14e02b-80c5-4b4a-8c1d-7821ac6819ec
+      cf81aca0-07ec-41e5-b288-ae9101a8f473
+      d3bdbdd0-b3bd-4a78-8baa-0f803d7d4b1b
+      d7949781-c0ed-408c-936d-05049acd0dbd
+      dcee6636-8800-4ae2-9945-06e01aa03736
+      e807a9c8-98f1-405b-b0b3-5088bdbf4681
+      e95b8a43-670e-49a2-8b01-358ae2cf4de0
+      f004594a-84c4-4e98-88a3-8fba053d51fa
+      fb22c59d-d5b9-4cb3-b9c7-f5b696e5dfdf
+ )
+  )
+  (model ":nqbit:705530001_v008_cp.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
