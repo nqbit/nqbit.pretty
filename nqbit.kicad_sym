@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20201005) (generator kicad_symbol_editor)
-  (symbol "nqbit:5922023313F" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "5922023313F" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 0 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -36,132 +36,153 @@
       )
     )
     (symbol "5922023313F_0_1"
+      (rectangle (start -2.794 8.382) (end 3.175 -12.7)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (rectangle (start -1.27 -1.27) (end -1.27 1.27)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (rectangle (start -1.27 1.27) (end -1.27 1.27)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (rectangle (start -1.27 3.81) (end -1.27 6.35)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (rectangle (start -1.27 6.35) (end -1.27 6.35)
-        (stroke (width 0)) (fill (type none))
-      )
-      (rectangle (start -2.794 8.382) (end 3.175 -12.7)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.27 -10.16)
           (xy -2.54 -10.16)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.27 -5.08)
           (xy -2.54 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.27 0)
           (xy -2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.27 0)
           (xy 1.27 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.27 5.08)
           (xy -2.54 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -10.16)
           (xy -1.27 -10.16)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -10.16)
           (xy 2.54 -10.16)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -8.89)
           (xy 1.27 -11.43)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -5.08)
           (xy -1.27 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -5.08)
           (xy 2.54 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -3.81)
           (xy 1.27 -6.35)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 0)
           (xy 2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 1.27)
           (xy 1.27 -1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 5.08)
           (xy -1.27 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 5.08)
           (xy 2.54 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 6.35)
           (xy 1.27 3.81)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -169,7 +190,8 @@
           (xy 1.27 -1.27)
           (xy 1.27 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -177,7 +199,8 @@
           (xy 1.27 3.81)
           (xy 1.27 3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -186,7 +209,8 @@
           (xy 1.27 -10.16)
           (xy -1.27 -8.89)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -195,7 +219,8 @@
           (xy 1.27 -5.08)
           (xy -1.27 -3.81)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -204,7 +229,8 @@
           (xy 1.27 0)
           (xy -1.27 1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -213,7 +239,8 @@
           (xy 1.27 5.08)
           (xy -1.27 6.35)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -223,7 +250,8 @@
           (xy -1.524 -7.366)
           (xy -1.524 -8.128)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -233,7 +261,8 @@
           (xy -1.524 -2.286)
           (xy -1.524 -3.048)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -243,7 +272,8 @@
           (xy -1.524 2.794)
           (xy -1.524 2.032)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -253,7 +283,8 @@
           (xy -1.524 7.874)
           (xy -1.524 7.112)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -263,7 +294,8 @@
           (xy -0.508 -7.366)
           (xy -0.508 -8.128)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -273,7 +305,8 @@
           (xy -0.508 -2.286)
           (xy -0.508 -3.048)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -283,7 +316,8 @@
           (xy -0.508 2.794)
           (xy -0.508 2.032)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -293,7 +327,8 @@
           (xy -0.508 7.874)
           (xy -0.508 7.112)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "5922023313F_1_1"
@@ -331,7 +366,7 @@
       )
     )
   )
-  (symbol "nqbit:74ABT244A" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "74ABT244A" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -19.05 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -346,7 +381,8 @@
     )
     (symbol "74ABT244A_0_1"
       (rectangle (start -8.89 20.32) (end 8.89 -16.51)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "74ABT244A_1_1"
@@ -432,7 +468,7 @@
       )
     )
   )
-  (symbol "nqbit:74AC11240" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "74AC11240" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -19.05 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -447,7 +483,8 @@
     )
     (symbol "74AC11240_0_1"
       (rectangle (start -8.89 20.32) (end 8.89 -16.51)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "74AC11240_1_1"
@@ -533,7 +570,7 @@
       )
     )
   )
-  (symbol "nqbit:ADP5052" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ADP5052" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -29.21 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -548,7 +585,8 @@
     )
     (symbol "ADP5052_0_1"
       (rectangle (start -17.78 41.91) (end 17.78 -82.55)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ADP5052_1_1"
@@ -750,7 +788,7 @@
       )
     )
   )
-  (symbol "nqbit:AL8861" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "AL8861" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -10.16 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -765,7 +803,8 @@
     )
     (symbol "AL8861_0_1"
       (rectangle (start 8.89 6.35) (end -8.89 -8.89)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "AL8861_1_1"
@@ -791,7 +830,7 @@
       )
     )
   )
-  (symbol "nqbit:AM26LS32ACDR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "AM26LS32ACDR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 15.24 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -806,7 +845,8 @@
     )
     (symbol "AM26LS32ACDR_0_1"
       (rectangle (start -8.89 11.43) (end 8.89 -26.67)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "AM26LS32ACDR_1_1"
@@ -876,7 +916,7 @@
       )
     )
   )
-  (symbol "nqbit:ANTENNA_CONNECTOR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ANTENNA_CONNECTOR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -3.81 -5.08 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -891,7 +931,8 @@
     )
     (symbol "ANTENNA_CONNECTOR_0_1"
       (rectangle (start 0 3.81) (end -7.62 -3.81)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ANTENNA_CONNECTOR_1_1"
@@ -905,7 +946,7 @@
       )
     )
   )
-  (symbol "nqbit:AP2112" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "AP2112" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 6.35 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -920,7 +961,8 @@
     )
     (symbol "AP2112_0_1"
       (rectangle (start -6.35 5.08) (end 6.35 -5.08)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "AP2112_1_1"
@@ -946,7 +988,7 @@
       )
     )
   )
-  (symbol "nqbit:ATMEL_DEBUG" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ATMEL_DEBUG" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -8.89 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -961,7 +1003,8 @@
     )
     (symbol "ATMEL_DEBUG_0_1"
       (rectangle (start -15.24 7.62) (end 15.24 -7.62)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ATMEL_DEBUG_1_1"
@@ -1007,7 +1050,7 @@
       )
     )
   )
-  (symbol "nqbit:AXE610124" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "AXE610124" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -8.89 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1022,7 +1065,8 @@
     )
     (symbol "AXE610124_0_1"
       (rectangle (start -13.97 7.62) (end 13.97 -7.62)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "AXE610124_1_1"
@@ -1084,7 +1128,7 @@
       )
     )
   )
-  (symbol "nqbit:BARREL_JACK" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "BARREL_JACK" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "CON" (id 0) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1098,28 +1142,29 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "BARREL_JACK_0_1"
-      (arc (start -7.62 1.27) (end -8.89 2.54) (radius (at -7.62 2.5146) (length 1.2446) (angles -90 178.8))
-        (stroke (width 0)) (fill (type none))
+      (arc (start -8.89 2.54) (mid -8.5271 1.6254) (end -7.62 1.27)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
-      (arc (start -7.62 3.81) (end -8.89 2.54) (radius (at -7.62 2.5654) (length 1.2446) (angles 90 -178.8))
-        (stroke (width 0)) (fill (type none))
-      )
-      (rectangle (start 2.54 3.81) (end 0 1.27)
-        (stroke (width 0)) (fill (type none))
+      (arc (start -7.62 3.81) (mid -8.5088 3.4366) (end -8.89 2.54)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -7.62 1.27)
           (xy 0 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 3.81)
           (xy -7.62 3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1127,7 +1172,8 @@
           (xy -1.27 0)
           (xy -1.27 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1137,7 +1183,12 @@
           (xy -6.35 -2.54)
           (xy -8.89 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (rectangle (start 2.54 3.81) (end 0 1.27)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "BARREL_JACK_1_1"
@@ -1155,7 +1206,7 @@
       )
     )
   )
-  (symbol "nqbit:BATT_26650x1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "BATT_26650x1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -2.54 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1170,7 +1221,8 @@
     )
     (symbol "BATT_26650x1_0_1"
       (rectangle (start -10.16 1.27) (end 10.16 -1.27)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "BATT_26650x1_1_1"
@@ -1184,7 +1236,7 @@
       )
     )
   )
-  (symbol "nqbit:BM1383AGLV" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "BM1383AGLV" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 27.94 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1202,7 +1254,8 @@
     )
     (symbol "BM1383AGLV_0_1"
       (rectangle (start -8.89 20.32) (end 8.89 -15.24)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "BM1383AGLV_1_1"
@@ -1256,7 +1309,7 @@
       )
     )
   )
-  (symbol "nqbit:BMI055" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "BMI055" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 6.35 11.43 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1271,7 +1324,8 @@
     )
     (symbol "BMI055_0_1"
       (rectangle (start 7.62 6.35) (end -7.62 -16.51)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "BMI055_1_1"
@@ -1341,7 +1395,7 @@
       )
     )
   )
-  (symbol "nqbit:BMX055" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "BMX055" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 7.62 -21.59 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1356,7 +1410,8 @@
     )
     (symbol "BMX055_0_1"
       (rectangle (start -8.89 19.05) (end 8.89 -19.05)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "BMX055_1_1"
@@ -1442,7 +1497,7 @@
       )
     )
   )
-  (symbol "nqbit:BQ25071" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "BQ25071" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -19.05 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1457,7 +1512,8 @@
     )
     (symbol "BQ25071_0_1"
       (rectangle (start -7.62 12.7) (end 7.62 -17.78)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "BQ25071_1_1"
@@ -1507,7 +1563,7 @@
       )
     )
   )
-  (symbol "nqbit:BQ29705" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "BQ29705" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -6.35 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1525,7 +1581,8 @@
     )
     (symbol "BQ29705_0_1"
       (rectangle (start -6.35 -5.08) (end 6.35 5.08)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "BQ29705_1_1"
@@ -1555,7 +1612,7 @@
       )
     )
   )
-  (symbol "nqbit:CONNECTOR_HS_1x1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "CONNECTOR_HS_1x1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 -6.35 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1570,7 +1627,8 @@
     )
     (symbol "CONNECTOR_HS_1x1_0_1"
       (rectangle (start -5.08 3.81) (end 3.81 -3.81)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "CONNECTOR_HS_1x1_1_1"
@@ -1584,7 +1642,7 @@
       )
     )
   )
-  (symbol "nqbit:CONN_1x2" (in_bom yes) (on_board yes)
+  (symbol "CONN_1x2" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1611,7 +1669,7 @@
       )
     )
   )
-  (symbol "nqbit:CONN_1x2_Molex_705530001" (in_bom yes) (on_board yes)
+  (symbol "CONN_1x2_Molex_705530001" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1638,7 +1696,7 @@
       )
     )
   )
-  (symbol "nqbit:CONN_8x3" (in_bom yes) (on_board yes)
+  (symbol "CONN_8x3" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1753,7 +1811,7 @@
       )
     )
   )
-  (symbol "nqbit:Crystal_SMD_-_4" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "Crystal_SMD_-_4" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "X" (id 0) (at 13.97 5.08 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1768,28 +1826,32 @@
     )
     (symbol "Crystal_SMD_-_4_0_1"
       (rectangle (start -1.27 1.27) (end 1.27 -1.27)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (polyline
         (pts
           (xy -2.54 -2.54)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -2.54 -1.27)
           (xy -2.54 1.27)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -1.27)
           (xy 2.54 1.27)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "Crystal_SMD_-_4_1_1"
@@ -1811,7 +1873,7 @@
       )
     )
   )
-  (symbol "nqbit:DC_BARREL_JACK" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "DC_BARREL_JACK" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "CON" (id 0) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1825,28 +1887,29 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "DC_BARREL_JACK_0_1"
-      (arc (start -7.62 1.27) (end -8.89 2.54) (radius (at -7.62 2.5146) (length 1.2446) (angles -90 178.8))
-        (stroke (width 0)) (fill (type none))
+      (arc (start -8.89 2.54) (mid -8.5271 1.6254) (end -7.62 1.27)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
-      (arc (start -7.62 3.81) (end -8.89 2.54) (radius (at -7.62 2.5654) (length 1.2446) (angles 90 -178.8))
-        (stroke (width 0)) (fill (type none))
-      )
-      (rectangle (start 2.54 3.81) (end 0 1.27)
-        (stroke (width 0)) (fill (type none))
+      (arc (start -7.62 3.81) (mid -8.5088 3.4366) (end -8.89 2.54)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -7.62 1.27)
           (xy 0 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 3.81)
           (xy -7.62 3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1854,7 +1917,8 @@
           (xy -1.27 0)
           (xy -1.27 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1864,7 +1928,12 @@
           (xy -6.35 -2.54)
           (xy -8.89 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (rectangle (start 2.54 3.81) (end 0 1.27)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "DC_BARREL_JACK_1_1"
@@ -1882,7 +1951,7 @@
       )
     )
   )
-  (symbol "nqbit:DRV8312" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "DRV8312" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 8.89 16.51 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -1897,7 +1966,8 @@
     )
     (symbol "DRV8312_0_1"
       (rectangle (start -15.24 13.97) (end 13.97 -63.5)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DRV8312_1_1"
@@ -2079,7 +2149,7 @@
       )
     )
   )
-  (symbol "nqbit:DRV8313" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "DRV8313" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 7.62 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -2094,7 +2164,8 @@
     )
     (symbol "DRV8313_0_1"
       (rectangle (start -12.7 6.35) (end 12.7 -48.26)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DRV8313_1_1"
@@ -2216,7 +2287,7 @@
       )
     )
   )
-  (symbol "nqbit:DSC1123" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "DSC1123" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 12.7 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -2231,7 +2302,8 @@
     )
     (symbol "DSC1123_0_1"
       (rectangle (start -7.62 11.43) (end 7.62 -10.16)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DSC1123_1_1"
@@ -2257,7 +2329,7 @@
       )
     )
   )
-  (symbol "nqbit:ESP8266_07" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ESP8266_07" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -13.97 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -2275,7 +2347,8 @@
     )
     (symbol "ESP8266_07_0_1"
       (rectangle (start -29.21 11.43) (end 29.21 -11.43)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ESP8266_07_1_1"
@@ -2345,7 +2418,7 @@
       )
     )
   )
-  (symbol "nqbit:ESP8266_12S" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ESP8266_12S" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -13.97 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -2363,7 +2436,8 @@
     )
     (symbol "ESP8266_12S_0_1"
       (rectangle (start -29.21 11.43) (end 29.21 -11.43)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ESP8266_12S_1_1"
@@ -2433,7 +2507,7 @@
       )
     )
   )
-  (symbol "nqbit:FDS8858CZ" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "FDS8858CZ" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at -1.27 0 0)
       (effects (font (size 1.016 1.016)) (justify right))
     )
@@ -2450,81 +2524,85 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "FDS8858CZ_0_1"
-      (circle (center 1.27 -7.62) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 1.27 7.62) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -8.89) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 -6.35) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 6.35) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 8.89) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0.635 -8.636)
           (xy 0.635 -9.271)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 -7.239)
           (xy 0.635 -8.001)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 -5.969)
           (xy 0.635 -6.604)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 6.604)
           (xy 0.635 5.969)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 8.001)
           (xy 0.635 7.239)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 9.271)
           (xy 0.635 8.636)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.794 -6.858)
           (xy 3.556 -6.858)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.794 8.382)
           (xy 3.556 8.382)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 6.35 -5.08)
           (xy 2.54 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 6.35 5.08)
           (xy 2.54 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2532,7 +2610,8 @@
           (xy 0 -9.144)
           (xy 0 -9.144)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2540,7 +2619,8 @@
           (xy 0 6.096)
           (xy 0 6.096)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2548,7 +2628,8 @@
           (xy 3.175 -8.382)
           (xy 3.175 -7.62)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2556,7 +2637,8 @@
           (xy 3.175 6.858)
           (xy 3.175 7.62)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2564,7 +2646,8 @@
           (xy 3.175 -5.969)
           (xy 2.54 -5.969)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2572,7 +2655,8 @@
           (xy 3.175 9.271)
           (xy 2.54 9.271)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2581,7 +2665,8 @@
           (xy 2.54 -10.16)
           (xy 2.54 -10.16)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2590,7 +2675,8 @@
           (xy 2.54 -5.08)
           (xy 2.54 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2599,7 +2685,8 @@
           (xy 2.54 5.08)
           (xy 2.54 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2608,7 +2695,8 @@
           (xy 2.54 10.16)
           (xy 2.54 10.16)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2617,7 +2705,8 @@
           (xy 3.556 -7.62)
           (xy 3.175 -6.858)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2626,7 +2715,8 @@
           (xy 3.556 7.62)
           (xy 3.175 8.382)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2636,7 +2726,8 @@
           (xy 2.54 -8.89)
           (xy 2.54 -8.89)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2646,7 +2737,8 @@
           (xy 2.54 6.35)
           (xy 2.54 6.35)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -2656,7 +2748,8 @@
           (xy 1.016 -7.62)
           (xy 2.032 -7.62)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (polyline
         (pts
@@ -2666,7 +2759,32 @@
           (xy 2.794 7.62)
           (xy 1.778 7.62)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 1.27 -7.62) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.27 7.62) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -8.89) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -6.35) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 6.35) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 8.89) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "FDS8858CZ_1_1"
@@ -2704,7 +2822,7 @@
       )
     )
   )
-  (symbol "nqbit:GVDD" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "GVDD" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2718,13 +2836,17 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "GVDD_0_1"
-      (circle (center 0 1.905) (radius 0.635) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0 0)
           (xy 0 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 1.905) (radius 0.635)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "GVDD_1_1"
@@ -2734,7 +2856,7 @@
       )
     )
   )
-  (symbol "nqbit:ICM-20649" (in_bom yes) (on_board yes)
+  (symbol "ICM-20649" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -24.13 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -2749,7 +2871,8 @@
     )
     (symbol "ICM-20649_0_1"
       (rectangle (start -11.43 22.86) (end 11.43 -22.86)
-        (stroke (width 0.1524)) (fill (type background))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ICM-20649_1_1"
@@ -2786,7 +2909,7 @@
         (number "21" (effects (font (size 1.27 1.27))))
       )
       (pin input line (at 13.97 10.795 180) (length 2.54)
-        (name "~CS" (effects (font (size 1.27 1.27))))
+        (name "~{CS}" (effects (font (size 1.27 1.27))))
         (number "22" (effects (font (size 1.27 1.27))))
       )
       (pin input line (at 13.97 7.62 180) (length 2.54)
@@ -2811,7 +2934,7 @@
       )
     )
   )
-  (symbol "nqbit:ILI9341_Adafruit" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ILI9341_Adafruit" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "LCD" (id 0) (at 0 -27.94 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -2834,7 +2957,8 @@
     )
     (symbol "ILI9341_Adafruit_0_1"
       (rectangle (start 17.78 27.94) (end -19.05 -25.4)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ILI9341_Adafruit_1_1"
@@ -3000,7 +3124,7 @@
       )
     )
   )
-  (symbol "nqbit:INDUCTOR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "INDUCTOR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "L" (id 0) (at 0 -1.27 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3014,31 +3138,37 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (symbol "INDUCTOR_0_1"
-      (arc (start -1.27 0) (end -2.54 0) (radius (at -1.905 0) (length 0.635) (angles 0.1 179.9))
-        (stroke (width 0)) (fill (type none))
+      (arc (start -1.27 0) (mid -1.905 0.635) (end -2.54 0)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
-      (arc (start 0 0) (end -1.27 0) (radius (at -0.635 0) (length 0.635) (angles 0.1 179.9))
-        (stroke (width 0)) (fill (type none))
-      )
-      (arc (start 1.27 0) (end 0 0) (radius (at 0.635 0) (length 0.635) (angles 0.1 179.9))
-        (stroke (width 0)) (fill (type none))
-      )
-      (arc (start 2.54 0) (end 1.27 0) (radius (at 1.905 0) (length 0.635) (angles 0.1 179.9))
-        (stroke (width 0)) (fill (type none))
+      (arc (start 0 0) (mid -0.635 0.635) (end -1.27 0)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -2.54 1.143)
           (xy 2.54 1.143)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 0.889)
           (xy -2.54 0.889)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (arc (start 1.27 0) (mid 0.635 0.635) (end 0 0)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (arc (start 2.54 0) (mid 1.905 0.635) (end 1.27 0)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "INDUCTOR_1_1"
@@ -3052,7 +3182,7 @@
       )
     )
   )
-  (symbol "nqbit:JTAG_10_PIN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "JTAG_10_PIN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 13.97 8.89 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3067,7 +3197,8 @@
     )
     (symbol "JTAG_10_PIN_0_1"
       (rectangle (start -8.89 6.35) (end 8.89 -6.35)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "JTAG_10_PIN_1_1"
@@ -3113,7 +3244,7 @@
       )
     )
   )
-  (symbol "nqbit:JTAG_STLINKV2" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "JTAG_STLINKV2" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 12.7 15.24 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3128,7 +3259,8 @@
     )
     (symbol "JTAG_STLINKV2_0_1"
       (rectangle (start -20.32 12.7) (end 20.32 -12.7)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "JTAG_STLINKV2_1_1"
@@ -3214,7 +3346,7 @@
       )
     )
   )
-  (symbol "nqbit:LEDx2" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "LEDx2" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -3233,23 +3365,8 @@
           (xy 1.27 1.27)
           (xy 1.27 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.651 -1.016)
-          (xy 2.794 -2.032)
-          (xy 2.667 -1.397)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.032 -0.635)
-          (xy 3.175 -1.651)
-          (xy 3.048 -1.016)
-        )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -3257,7 +3374,26 @@
           (xy 1.27 0)
           (xy -1.27 -1.27)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 1.651 -1.016)
+          (xy 2.794 -2.032)
+          (xy 2.667 -1.397)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.032 -0.635)
+          (xy 3.175 -1.651)
+          (xy 3.048 -1.016)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "LEDx2_1_1"
@@ -3281,7 +3417,7 @@
       )
     )
   )
-  (symbol "nqbit:LMZ34202" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "LMZ34202" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -52.07 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3296,7 +3432,8 @@
     )
     (symbol "LMZ34202_0_1"
       (rectangle (start -11.43 20.32) (end 11.43 -50.8)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LMZ34202_1_1"
@@ -3474,7 +3611,7 @@
       )
     )
   )
-  (symbol "nqbit:LORA_RN2903" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "LORA_RN2903" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -30.48 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3489,7 +3626,8 @@
     )
     (symbol "LORA_RN2903_0_1"
       (rectangle (start 19.05 27.94) (end -19.05 -29.21)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LORA_RN2903_1_1"
@@ -3683,7 +3821,7 @@
       )
     )
   )
-  (symbol "nqbit:LP38511-ADJ" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "LP38511-ADJ" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -13.97 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3698,7 +3836,8 @@
     )
     (symbol "LP38511-ADJ_0_1"
       (rectangle (start -10.16 11.43) (end 10.16 -12.7)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LP38511-ADJ_1_1"
@@ -3740,7 +3879,7 @@
       )
     )
   )
-  (symbol "nqbit:LTC3226" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "LTC3226" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -19.05 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3755,7 +3894,8 @@
     )
     (symbol "LTC3226_0_1"
       (rectangle (start -12.7 25.4) (end 12.7 -16.51)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LTC3226_1_1"
@@ -3829,7 +3969,7 @@
       )
     )
   )
-  (symbol "nqbit:M41T62" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "M41T62" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -22.86 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3844,7 +3984,8 @@
     )
     (symbol "M41T62_0_1"
       (rectangle (start -8.89 -1.27) (end 8.89 -21.59)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "M41T62_1_1"
@@ -3890,7 +4031,7 @@
       )
     )
   )
-  (symbol "nqbit:MICROVIEW" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "MICROVIEW" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -12.7 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -3905,7 +4046,8 @@
     )
     (symbol "MICROVIEW_0_1"
       (rectangle (start -6.35 11.43) (end 6.35 -11.43)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MICROVIEW_1_1"
@@ -3975,7 +4117,7 @@
       )
     )
   )
-  (symbol "nqbit:MMBF170" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "MMBF170" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 0 -3.7846 0)
       (effects (font (size 1.016 1.016)) (justify right))
     )
@@ -3992,50 +4134,53 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "MMBF170_0_1"
-      (circle (center 1.27 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0.635 -1.016)
           (xy 0.635 -1.651)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.381)
           (xy 0.635 -0.381)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 1.651)
           (xy 0.635 1.016)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.048 0.381)
           (xy 2.921 0.254)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.048 0.381)
           (xy 3.556 0.381)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.556 0.381)
           (xy 3.683 0.508)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4043,7 +4188,8 @@
           (xy 0 -1.524)
           (xy 0 -1.524)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4052,7 +4198,8 @@
           (xy 2.54 -2.54)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4061,7 +4208,8 @@
           (xy 2.54 2.54)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4070,7 +4218,18 @@
           (xy 3.302 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 0.381)
+          (xy 3.048 -0.254)
+          (xy 3.556 -0.254)
+          (xy 3.302 0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (polyline
         (pts
@@ -4080,16 +4239,8 @@
           (xy 2.54 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 0.381)
-          (xy 3.048 -0.254)
-          (xy 3.556 -0.254)
-          (xy 3.302 0.381)
-        )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4100,7 +4251,20 @@
           (xy 7.874 1.27)
           (xy 7.874 1.27)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 1.27 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "MMBF170_1_1"
@@ -4118,7 +4282,7 @@
       )
     )
   )
-  (symbol "nqbit:MOSFET-N" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "MOSFET-N" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 0 -3.7846 0)
       (effects (font (size 1.016 1.016)) (justify right))
     )
@@ -4132,36 +4296,37 @@
       (effects (font (size 1.524 1.524)))
     )
     (symbol "MOSFET-N_0_1"
-      (circle (center 1.27 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0.635 -1.016)
           (xy 0.635 -1.651)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.381)
           (xy 0.635 -0.381)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 1.651)
           (xy 0.635 1.016)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.794 0.762)
           (xy 3.556 0.762)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4169,7 +4334,8 @@
           (xy 0 -1.524)
           (xy 0 -1.524)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4177,7 +4343,8 @@
           (xy 3.175 -0.762)
           (xy 3.175 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4185,7 +4352,8 @@
           (xy 3.175 1.651)
           (xy 2.54 1.651)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4194,7 +4362,8 @@
           (xy 2.54 -2.54)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4203,7 +4372,8 @@
           (xy 2.54 2.54)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4212,7 +4382,8 @@
           (xy 3.556 0)
           (xy 3.175 0.762)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4222,7 +4393,8 @@
           (xy 2.54 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4232,7 +4404,20 @@
           (xy 1.016 0)
           (xy 2.032 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 1.27 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "MOSFET-N_1_1"
@@ -4250,7 +4435,7 @@
       )
     )
   )
-  (symbol "nqbit:MOSFET-P" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "MOSFET-P" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 0 -3.7846 0)
       (effects (font (size 1.016 1.016)) (justify right))
     )
@@ -4264,36 +4449,37 @@
       (effects (font (size 1.524 1.524)))
     )
     (symbol "MOSFET-P_0_1"
-      (circle (center 1.27 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0.635 -1.016)
           (xy 0.635 -1.651)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.381)
           (xy 0.635 -0.381)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 1.651)
           (xy 0.635 1.016)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.794 -0.3048)
           (xy 3.556 -0.3048)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4301,7 +4487,8 @@
           (xy 0 -1.524)
           (xy 0 -1.524)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4309,7 +4496,8 @@
           (xy 3.175 -0.762)
           (xy 3.175 -0.2794)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4317,7 +4505,8 @@
           (xy 3.175 1.651)
           (xy 2.54 1.651)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4326,7 +4515,8 @@
           (xy 2.54 -2.54)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4335,7 +4525,8 @@
           (xy 2.54 2.54)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4344,7 +4535,8 @@
           (xy 3.175 -0.254)
           (xy 2.794 0.381)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4354,7 +4546,8 @@
           (xy 2.54 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4364,7 +4557,20 @@
           (xy 2.794 0)
           (xy 1.778 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 1.27 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "MOSFET-P_1_1"
@@ -4382,7 +4588,7 @@
       )
     )
   )
-  (symbol "nqbit:MP2307" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "MP2307" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -1.27 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -4397,7 +4603,8 @@
     )
     (symbol "MP2307_0_1"
       (rectangle (start -15.24 8.89) (end 15.24 -8.89)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MP2307_1_1"
@@ -4439,7 +4646,7 @@
       )
     )
   )
-  (symbol "nqbit:MPXV6115V" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "MPXV6115V" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -8.89 7.62 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -4454,7 +4661,8 @@
     )
     (symbol "MPXV6115V_0_1"
       (rectangle (start -6.35 -5.08) (end 6.35 5.08)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "MPXV6115V_1_1"
@@ -4492,7 +4700,7 @@
       )
     )
   )
-  (symbol "nqbit:NFET_FDS9926A" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "NFET_FDS9926A" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 0 -3.7846 0)
       (effects (font (size 1.016 1.016)) (justify right))
     )
@@ -4509,43 +4717,45 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "NFET_FDS9926A_0_1"
-      (circle (center 1.27 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0.635 -1.016)
           (xy 0.635 -1.651)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.381)
           (xy 0.635 -0.381)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 1.651)
           (xy 0.635 1.016)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.794 0.762)
           (xy 3.556 0.762)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 5.08 2.54)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4553,7 +4763,8 @@
           (xy 0 -1.524)
           (xy 0 -1.524)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4561,7 +4772,8 @@
           (xy 3.175 -0.762)
           (xy 3.175 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4569,7 +4781,8 @@
           (xy 3.175 1.651)
           (xy 2.54 1.651)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4578,7 +4791,8 @@
           (xy 2.54 -2.54)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4587,7 +4801,8 @@
           (xy 2.54 2.54)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4596,7 +4811,8 @@
           (xy 3.556 0)
           (xy 3.175 0.762)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4606,7 +4822,8 @@
           (xy 2.54 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4616,7 +4833,20 @@
           (xy 1.016 0)
           (xy 2.032 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 1.27 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "NFET_FDS9926A_1_1"
@@ -4656,7 +4886,173 @@
       )
     )
   )
-  (symbol "nqbit:OPA365AIDBV" (in_bom yes) (on_board yes)
+  (symbol "NINA-W101" (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at 0 -63.5 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "NINA-W101" (id 1) (at 0 5.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (id 2) (at -10.16 -5.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at -10.16 -5.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "NINA-W101_0_1"
+      (rectangle (start -33.02 7.62) (end 33.02 -60.96)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+    )
+    (symbol "NINA-W101_1_1"
+      (pin bidirectional line (at -35.56 0 0) (length 2.54)
+        (name "SPI_V_MOSI/GPIO_1" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 35.56 -15.24 180) (length 2.54)
+        (name "VCC" (effects (font (size 1.27 1.27))))
+        (number "10" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at -35.56 -50.8 0) (length 2.54) hide
+        (name "RSVD" (effects (font (size 1.27 1.27))))
+        (number "11" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 35.56 0 180) (length 2.54)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "12" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at 35.56 -2.54 180) (length 2.54)
+        (name "ANT" (effects (font (size 1.27 1.27))))
+        (number "13" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 35.56 -5.08 180) (length 2.54)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "14" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at -35.56 -53.34 0) (length 2.54) hide
+        (name "RSVD" (effects (font (size 1.27 1.27))))
+        (number "15" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -17.78 0) (length 2.54)
+        (name "GPIO_16/RMII_RXD0/DAC_16" (effects (font (size 1.27 1.27))))
+        (number "16" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -20.32 0) (length 2.54)
+        (name "GPIO_17/RMII_RXD1/DAC_17" (effects (font (size 1.27 1.27))))
+        (number "17" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -22.86 0) (length 2.54)
+        (name "GPIO_18/RMII_CRS_DV" (effects (font (size 1.27 1.27))))
+        (number "18" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at 35.56 -22.86 180) (length 2.54)
+        (name "~{RESET}" (effects (font (size 1.27 1.27))))
+        (number "19" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at -35.56 -2.54 0) (length 2.54)
+        (name "ADC_2/GPI_2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -25.4 0) (length 2.54)
+        (name "GPIO_20/UART_RTS/RMII_TXD1/SPI_V_WP" (effects (font (size 1.27 1.27))))
+        (number "20" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -27.94 0) (length 2.54)
+        (name "GPIO_21/UART_CTS/RMII_TXD0/SPI_V_MISO" (effects (font (size 1.27 1.27))))
+        (number "21" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -30.48 0) (length 2.54)
+        (name "GPIO_22/UART_TXD" (effects (font (size 1.27 1.27))))
+        (number "22" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -33.02 0) (length 2.54)
+        (name "GPIO_23/UART_RXD" (effects (font (size 1.27 1.27))))
+        (number "23" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -35.56 0) (length 2.54)
+        (name "GPIO_24/RMII_MDIO" (effects (font (size 1.27 1.27))))
+        (number "24" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -38.1 0) (length 2.54)
+        (name "GPIO_25/RMII_MDCLK" (effects (font (size 1.27 1.27))))
+        (number "25" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 35.56 -48.26 180) (length 2.54)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "26" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -40.64 0) (length 2.54)
+        (name "GPIO_27/RMII_CLK/SYS_BOOT" (effects (font (size 1.27 1.27))))
+        (number "27" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -43.18 0) (length 2.54)
+        (name "GPIO_28/SPI_V_CS" (effects (font (size 1.27 1.27))))
+        (number "28" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -45.72 0) (length 2.54)
+        (name "GPIO_29/SPI_V_CLK" (effects (font (size 1.27 1.27))))
+        (number "29" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at -35.56 -5.08 0) (length 2.54)
+        (name "ADC_3/GPI_3" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 35.56 -50.8 180) (length 2.54)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "30" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at 35.56 -30.48 180) (length 2.54)
+        (name "JTAG_TMS/GPIO_31" (effects (font (size 1.27 1.27))))
+        (number "31" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at 35.56 -33.02 180) (length 2.54)
+        (name "JTAG_TDO/GPIO_32" (effects (font (size 1.27 1.27))))
+        (number "32" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at -35.56 -55.88 0) (length 2.54) hide
+        (name "RSVD" (effects (font (size 1.27 1.27))))
+        (number "33" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at -35.56 -48.26 0) (length 2.54)
+        (name "ADC_34/GPI_34" (effects (font (size 1.27 1.27))))
+        (number "34" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at 35.56 -35.56 180) (length 2.54)
+        (name "JTAG_TCK/GPIO_35" (effects (font (size 1.27 1.27))))
+        (number "35" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at 35.56 -38.1 180) (length 2.54)
+        (name "JTAG_TDI/GPIO_36" (effects (font (size 1.27 1.27))))
+        (number "36" (effects (font (size 1.27 1.27))))
+      )
+      (pin input line (at -35.56 -7.62 0) (length 2.54)
+        (name "ADC_4/GPI_4" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -10.16 0) (length 2.54)
+        (name "GPIO_5" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 35.56 -45.72 180) (length 2.54)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -12.7 0) (length 2.54)
+        (name "LPO_IN/GPIO_7" (effects (font (size 1.27 1.27))))
+        (number "7" (effects (font (size 1.27 1.27))))
+      )
+      (pin bidirectional line (at -35.56 -15.24 0) (length 2.54)
+        (name "SPI_V_HD/RMII_TX_EN/GPIO_8" (effects (font (size 1.27 1.27))))
+        (number "8" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 35.56 -12.7 180) (length 2.54)
+        (name "VCC_IO" (effects (font (size 1.27 1.27))))
+        (number "9" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "OPA365AIDBV" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 1.27 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -4677,7 +5073,8 @@
           (xy -5.08 -5.08)
           (xy -5.08 5.08)
         )
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "OPA365AIDBV_1_1"
@@ -4703,7 +5100,7 @@
       )
     )
   )
-  (symbol "nqbit:PACKET_TRACE_PORT" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "PACKET_TRACE_PORT" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 13.97 8.89 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -4718,7 +5115,8 @@
     )
     (symbol "PACKET_TRACE_PORT_0_1"
       (rectangle (start -8.89 6.35) (end 8.89 -6.35)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "PACKET_TRACE_PORT_1_1"
@@ -4764,7 +5162,7 @@
       )
     )
   )
-  (symbol "nqbit:PCA9306" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "PCA9306" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 6.35 7.62 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -4779,7 +5177,8 @@
     )
     (symbol "PCA9306_0_1"
       (rectangle (start -10.16 5.08) (end 10.16 -5.08)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "PCA9306_1_1"
@@ -4817,7 +5216,7 @@
       )
     )
   )
-  (symbol "nqbit:PCA9632" (in_bom yes) (on_board yes)
+  (symbol "PCA9632" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -4838,7 +5237,8 @@
     )
     (symbol "PCA9632_0_1"
       (rectangle (start -10.16 7.62) (end 10.16 -7.62)
-        (stroke (width 0.001)) (fill (type background))
+        (stroke (width 0.001) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "PCA9632_1_1"
@@ -4876,7 +5276,7 @@
       )
     )
   )
-  (symbol "nqbit:PMV48XN" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "PMV48XN" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 0 -3.7846 0)
       (effects (font (size 1.016 1.016)) (justify right))
     )
@@ -4893,29 +5293,29 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "PMV48XN_0_1"
-      (circle (center 1.27 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0.635 -1.016)
           (xy 0.635 -1.651)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.381)
           (xy 0.635 -0.381)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 1.651)
           (xy 0.635 1.016)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4923,7 +5323,8 @@
           (xy 0 -1.524)
           (xy 0 -1.524)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4932,7 +5333,8 @@
           (xy 2.54 -2.54)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4941,7 +5343,8 @@
           (xy 2.54 2.54)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4951,7 +5354,8 @@
           (xy 2.54 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -4961,7 +5365,20 @@
           (xy 1.016 0)
           (xy 2.032 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 1.27 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "PMV48XN_1_1"
@@ -4979,7 +5396,7 @@
       )
     )
   )
-  (symbol "nqbit:PMV48XP" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "PMV48XP" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 0 -3.7846 0)
       (effects (font (size 1.016 1.016)) (justify right))
     )
@@ -4996,36 +5413,37 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "PMV48XP_0_1"
-      (circle (center 1.27 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 1.27) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0.635 -1.016)
           (xy 0.635 -1.651)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.381)
           (xy 0.635 -0.381)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 1.651)
           (xy 0.635 1.016)
         )
-        (stroke (width 0.508)) (fill (type none))
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.048 -0.381)
           (xy 3.556 -0.381)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5033,7 +5451,8 @@
           (xy 0 -1.524)
           (xy 0 -1.524)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5042,7 +5461,8 @@
           (xy 2.54 -2.54)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5051,7 +5471,8 @@
           (xy 2.54 2.54)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5060,7 +5481,18 @@
           (xy 3.302 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.381)
+          (xy 3.048 0.254)
+          (xy 3.556 0.254)
+          (xy 3.302 -0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (polyline
         (pts
@@ -5070,16 +5502,8 @@
           (xy 2.54 -1.27)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 -0.381)
-          (xy 3.048 0.254)
-          (xy 3.556 0.254)
-          (xy 3.302 -0.381)
-        )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5090,7 +5514,20 @@
           (xy 2.159 0)
           (xy 2.159 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 1.27 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 1.27) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "PMV48XP_1_1"
@@ -5108,7 +5545,7 @@
       )
     )
   )
-  (symbol "nqbit:PVDD" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "PVDD" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5122,13 +5559,17 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "PVDD_0_1"
-      (circle (center 0 1.905) (radius 0.635) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0 0)
           (xy 0 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 1.905) (radius 0.635)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "PVDD_1_1"
@@ -5138,7 +5579,7 @@
       )
     )
   )
-  (symbol "nqbit:ROYER" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ROYER" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "MOD" (id 0) (at 0 -6.35 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -5153,7 +5594,8 @@
     )
     (symbol "ROYER_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ROYER_1_1"
@@ -5179,7 +5621,7 @@
       )
     )
   )
-  (symbol "nqbit:RotaryEncoder_Switch" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+  (symbol "RotaryEncoder_Switch" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (id 0) (at 0 6.604 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -5202,50 +5644,61 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "RotaryEncoder_Switch_0_1"
-      (arc (start -0.381 -2.794) (end -0.381 2.667) (radius (at -0.381 -0.0508) (length 2.7432) (angles -89.9 89.9))
-        (stroke (width 0.254)) (fill (type none))
-      )
-      (circle (center -0.381 0) (radius 1.905) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 4.318 -1.016) (radius 0.127) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 4.318 1.016) (radius 0.127) (stroke (width 0.254)) (fill (type none)))
-      (circle (center -3.81 0) (radius 0.254) (stroke (width 0)) (fill (type outline)))
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (circle (center -3.81 0) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (arc (start -0.381 -2.794) (mid 2.3622 -0.0508) (end -0.381 2.667)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center -0.381 0) (radius 1.905)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -0.635 -1.778)
           (xy -0.635 1.778)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -0.381 -1.778)
           (xy -0.381 1.778)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -0.127 1.778)
           (xy -0.127 -1.778)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.81 0)
           (xy 3.429 0)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.81 1.016)
           (xy 3.81 -1.016)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5253,7 +5706,8 @@
           (xy -3.81 -2.54)
           (xy -3.81 -2.032)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5261,7 +5715,8 @@
           (xy -3.81 2.54)
           (xy -3.81 2.032)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5269,7 +5724,8 @@
           (xy -0.508 -2.794)
           (xy 0.127 -2.413)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5277,7 +5733,8 @@
           (xy -0.508 2.667)
           (xy 0.127 2.286)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5285,7 +5742,8 @@
           (xy 4.318 -2.54)
           (xy 4.318 -1.016)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5293,7 +5751,8 @@
           (xy 4.318 2.54)
           (xy 4.318 1.016)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5302,7 +5761,8 @@
           (xy -3.81 -1.016)
           (xy -3.302 -2.032)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5311,7 +5771,16 @@
           (xy -3.81 1.016)
           (xy -3.302 2.032)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 4.318 -1.016) (radius 0.127)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 4.318 1.016) (radius 0.127)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "RotaryEncoder_Switch_1_1"
@@ -5341,7 +5810,7 @@
       )
     )
   )
-  (symbol "nqbit:SAMD51J20" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "SAMD51J20" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -62.23 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -5356,7 +5825,8 @@
     )
     (symbol "SAMD51J20_0_1"
       (rectangle (start -16.51 76.2) (end 16.51 -59.69)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "SAMD51J20_1_1"
@@ -5621,7 +6091,7 @@
       )
     )
   )
-  (symbol "nqbit:SAML21E" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "SAML21E" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -38.1 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -5636,7 +6106,8 @@
     )
     (symbol "SAML21E_0_1"
       (rectangle (start -13.97 30.48) (end 13.97 -35.56)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "SAML21E_1_1"
@@ -5770,7 +6241,7 @@
       )
     )
   )
-  (symbol "nqbit:SD_CARD" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "SD_CARD" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -17.78 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -5785,7 +6256,8 @@
     )
     (symbol "SD_CARD_0_1"
       (rectangle (start -10.16 -15.24) (end 10.16 13.97)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "SD_CARD_1_1"
@@ -5835,7 +6307,7 @@
       )
     )
   )
-  (symbol "nqbit:STEP_STICK_TMC2208" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "STEP_STICK_TMC2208" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 10.16 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -5850,7 +6322,8 @@
     )
     (symbol "STEP_STICK_TMC2208_0_1"
       (rectangle (start -12.7 11.43) (end 12.7 -11.43)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "STEP_STICK_TMC2208_1_1"
@@ -5920,7 +6393,7 @@
       )
     )
   )
-  (symbol "nqbit:SWITCH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "SWITCH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "P" (id 0) (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -5938,16 +6411,20 @@
     )
     (symbol "SWITCH_0_1"
       (rectangle (start -1.27 -2.413) (end 0.254 -2.667)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (rectangle (start -1.27 0.127) (end 0.254 -0.127)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (rectangle (start -1.27 2.667) (end 0.254 2.413)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (rectangle (start -1.27 3.81) (end 1.27 -3.81)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "SWITCH_1_1"
@@ -5965,7 +6442,7 @@
       )
     )
   )
-  (symbol "nqbit:SparkGap" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "SparkGap" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "SG" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -5984,14 +6461,16 @@
           (xy -1.27 0)
           (xy -2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 0)
           (xy 2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -5999,7 +6478,8 @@
           (xy -1.27 0)
           (xy -3.81 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -6007,7 +6487,8 @@
           (xy 1.27 0)
           (xy 2.54 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "SparkGap_1_1"
@@ -6021,7 +6502,7 @@
       )
     )
   )
-  (symbol "nqbit:TEENSY_3.2" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "TEENSY_3.2" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -31.75 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -6036,7 +6517,8 @@
     )
     (symbol "TEENSY_3.2_0_1"
       (rectangle (start -25.4 27.94) (end 25.4 -29.21)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "TEENSY_3.2_1_1"
@@ -6154,7 +6636,7 @@
       )
     )
   )
-  (symbol "nqbit:TLC5955" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "TLC5955" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -82.55 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -6169,7 +6651,8 @@
     )
     (symbol "TLC5955_0_1"
       (rectangle (start 17.78 81.28) (end -17.78 -81.28)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "TLC5955_1_1"
@@ -6403,7 +6886,7 @@
       )
     )
   )
-  (symbol "nqbit:TLE5012B" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "TLE5012B" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -11.43 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -6418,7 +6901,8 @@
     )
     (symbol "TLE5012B_0_1"
       (rectangle (start -6.35 10.16) (end 6.35 -10.16)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "TLE5012B_1_1"
@@ -6456,7 +6940,7 @@
       )
     )
   )
-  (symbol "nqbit:TXB0104" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "TXB0104" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 11.43 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -6471,7 +6955,8 @@
     )
     (symbol "TXB0104_0_1"
       (rectangle (start -7.62 10.16) (end 7.62 -10.16)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "TXB0104_1_1"
@@ -6533,7 +7018,7 @@
       )
     )
   )
-  (symbol "nqbit:TXB0108" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "TXB0108" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 3.81 17.78 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -6548,7 +7033,8 @@
     )
     (symbol "TXB0108_0_1"
       (rectangle (start -6.35 12.7) (end 6.35 -12.7)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "TXB0108_1_1"
@@ -6634,7 +7120,7 @@
       )
     )
   )
-  (symbol "nqbit:USB-C" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "USB-C" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 19.05 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -6649,7 +7135,8 @@
     )
     (symbol "USB-C_0_1"
       (rectangle (start -8.89 17.78) (end 8.89 -19.05)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "USB-C_1_1"
@@ -6755,7 +7242,7 @@
       )
     )
   )
-  (symbol "nqbit:VIN" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "VIN" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6769,13 +7256,17 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "VIN_0_1"
-      (circle (center 0 1.905) (radius 0.635) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0 0)
           (xy 0 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 1.905) (radius 0.635)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "VIN_1_1"
@@ -6785,7 +7276,7 @@
       )
     )
   )
-  (symbol "nqbit:VMOTOR" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "VMOTOR" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6799,13 +7290,17 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "VMOTOR_0_1"
-      (circle (center 0 1.905) (radius 0.635) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0 0)
           (xy 0 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 1.905) (radius 0.635)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "VMOTOR_1_1"
@@ -6815,7 +7310,7 @@
       )
     )
   )
-  (symbol "nqbit:VUSER1" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "VUSER1" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6840,21 +7335,24 @@
           (xy -0.762 1.27)
           (xy 0 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 0)
           (xy 0 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 2.54)
           (xy 0.762 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "VUSER1_1_1"
@@ -6864,7 +7362,7 @@
       )
     )
   )
-  (symbol "nqbit:VUSER2" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "VUSER2" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6889,21 +7387,24 @@
           (xy -0.762 1.27)
           (xy 0 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 0)
           (xy 0 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 2.54)
           (xy 0.762 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "VUSER2_1_1"
@@ -6913,7 +7414,7 @@
       )
     )
   )
-  (symbol "nqbit:Vin" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "Vin" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6927,13 +7428,17 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "Vin_0_1"
-      (circle (center 0 1.905) (radius 0.635) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy 0 0)
           (xy 0 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 1.905) (radius 0.635)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "Vin_1_1"
@@ -6943,7 +7448,7 @@
       )
     )
   )
-  (symbol "nqbit:W631GG6KB-12" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "W631GG6KB-12" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -1.27 24.13 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -6966,7 +7471,8 @@
     )
     (symbol "W631GG6KB-12_1_1"
       (rectangle (start -6.35 3.81) (end 6.35 -50.8)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (pin input line (at -11.43 -22.86 0) (length 5.08)
         (name "VDDQ" (effects (font (size 1.27 1.27))))
@@ -7050,11 +7556,12 @@
       )
     )
     (symbol "W631GG6KB-12_2_0"
+      (rectangle (start -5.08 3.81) (end 5.08 -53.34)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "Ground" (at 0 2.54 0)
         (effects (font (size 1.524 1.524)))
-      )
-      (rectangle (start -5.08 3.81) (end 5.08 -53.34)
-        (stroke (width 0)) (fill (type background))
       )
     )
     (symbol "W631GG6KB-12_2_1"
@@ -7144,11 +7651,12 @@
       )
     )
     (symbol "W631GG6KB-12_3_0"
+      (rectangle (start -10.16 5.08) (end 10.16 -25.4)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "Control" (at 0 2.54 0)
         (effects (font (size 1.524 1.524)))
-      )
-      (rectangle (start -10.16 5.08) (end 10.16 -25.4)
-        (stroke (width 0)) (fill (type background))
       )
     )
     (symbol "W631GG6KB-12_3_1"
@@ -7222,11 +7730,12 @@
       )
     )
     (symbol "W631GG6KB-12_4_0"
+      (rectangle (start -10.16 6.35) (end 10.16 -58.42)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "IO" (at 0 3.81 0)
         (effects (font (size 1.524 1.524)))
-      )
-      (rectangle (start -10.16 6.35) (end 10.16 -58.42)
-        (stroke (width 0)) (fill (type background))
       )
     )
     (symbol "W631GG6KB-12_4_1"
@@ -7384,7 +7893,7 @@
       )
     )
   )
-  (symbol "nqbit:XC7A15TCPG236" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "XC7A15TCPG236" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 39.37 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -7404,11 +7913,12 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "XC7A15TCPG236_1_1"
+      (rectangle (start -8.89 34.29) (end 8.89 -34.29)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "GND" (at -8.89 35.56 0)
         (effects (font (size 1.524 1.524)) (justify left bottom))
-      )
-      (rectangle (start -8.89 34.29) (end 8.89 -34.29)
-        (stroke (width 0)) (fill (type background))
       )
       (pin input line (at -13.97 31.75 0) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
@@ -7620,11 +8130,12 @@
       )
     )
     (symbol "XC7A15TCPG236_2_1"
+      (rectangle (start 15.24 22.86) (end -15.24 -22.86)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "CONFIG" (at -15.24 24.13 0)
         (effects (font (size 1.524 1.524)) (justify left bottom))
-      )
-      (rectangle (start 15.24 22.86) (end -15.24 -22.86)
-        (stroke (width 0)) (fill (type background))
       )
       (pin input line (at -20.32 -10.16 0) (length 5.08)
         (name "DXP_0" (effects (font (size 1.27 1.27))))
@@ -7712,11 +8223,12 @@
       )
     )
     (symbol "XC7A15TCPG236_3_1"
+      (rectangle (start -34.29 30.48) (end 34.29 -45.72)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "BANK 14" (at -34.29 31.75 0)
         (effects (font (size 1.524 1.524)) (justify left bottom))
-      )
-      (rectangle (start -34.29 30.48) (end 34.29 -45.72)
-        (stroke (width 0)) (fill (type background))
       )
       (pin input line (at -39.37 27.94 0) (length 5.08)
         (name "IO_0_14" (effects (font (size 1.27 1.27))))
@@ -7920,11 +8432,12 @@
       )
     )
     (symbol "XC7A15TCPG236_4_1"
+      (rectangle (start -22.86 13.97) (end 22.86 -13.97)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "BANK 16" (at -22.86 15.24 0)
         (effects (font (size 1.524 1.524)) (justify left bottom))
-      )
-      (rectangle (start -22.86 13.97) (end 22.86 -13.97)
-        (stroke (width 0)) (fill (type background))
       )
       (pin input line (at -27.94 11.43 0) (length 5.08)
         (name "IO_L6P_T0_16" (effects (font (size 1.27 1.27))))
@@ -7969,7 +8482,8 @@
     )
     (symbol "XC7A15TCPG236_5_0"
       (rectangle (start -24.13 22.86) (end 24.13 -22.86)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "XC7A15TCPG236_5_1"
@@ -8074,11 +8588,12 @@
       )
     )
     (symbol "XC7A15TCPG236_6_1"
+      (rectangle (start -27.94 16.51) (end 27.94 -16.51)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "BANK 35" (at -27.94 17.78 0)
         (effects (font (size 1.524 1.524)) (justify left bottom))
-      )
-      (rectangle (start -27.94 16.51) (end 27.94 -16.51)
-        (stroke (width 0)) (fill (type background))
       )
       (pin input line (at -33.02 11.43 0) (length 5.08)
         (name "IO_L1N_T0_AD4N_35" (effects (font (size 1.27 1.27))))
@@ -8162,11 +8677,12 @@
       )
     )
     (symbol "XC7A15TCPG236_7_1"
+      (rectangle (start -21.59 13.97) (end 21.59 -13.97)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "BANK 216" (at -21.59 15.24 0)
         (effects (font (size 1.524 1.524)) (justify left bottom))
-      )
-      (rectangle (start -21.59 13.97) (end 21.59 -13.97)
-        (stroke (width 0)) (fill (type background))
       )
       (pin input line (at 26.67 3.81 180) (length 5.08)
         (name "MGTREFCLK1N_216" (effects (font (size 1.27 1.27))))
@@ -8222,11 +8738,12 @@
       )
     )
     (symbol "XC7A15TCPG236_8_1"
+      (rectangle (start -12.7 35.56) (end 12.7 -35.56)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "POWER" (at -12.7 36.83 0)
         (effects (font (size 1.524 1.524)) (justify left bottom))
-      )
-      (rectangle (start -12.7 35.56) (end 12.7 -35.56)
-        (stroke (width 0)) (fill (type background))
       )
       (pin input line (at 17.78 -17.78 180) (length 5.08)
         (name "MGTAVTT" (effects (font (size 1.27 1.27))))
@@ -8414,7 +8931,7 @@
       )
     )
   )
-  (symbol "nqbit:XC7Z010-1CLG225C" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "XC7Z010-1CLG225C" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 16.764 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -8437,7 +8954,8 @@
     )
     (symbol "XC7Z010-1CLG225C_1_1"
       (rectangle (start 17.78 6.35) (end -17.78 -116.84)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (pin input line (at 22.86 0 180) (length 5.08)
         (name "IO_L1P_T0_34" (effects (font (size 1.27 1.27))))
@@ -8631,7 +9149,8 @@
     )
     (symbol "XC7Z010-1CLG225C_2_1"
       (rectangle (start -11.43 6.35) (end 11.43 -109.22)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (pin passive line (at -16.51 -53.34 0) (length 5.08)
         (name "VCCO_MIO0_500" (effects (font (size 1.27 1.27))))
@@ -8777,7 +9296,8 @@
     )
     (symbol "XC7Z010-1CLG225C_3_1"
       (rectangle (start -8.89 6.35) (end 8.89 -27.94)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (pin input line (at -13.97 -15.24 0) (length 5.08)
         (name "INIT_B_0" (effects (font (size 1.27 1.27))))
@@ -8867,7 +9387,8 @@
     )
     (symbol "XC7Z010-1CLG225C_4_1"
       (rectangle (start -7.62 5.08) (end 7.62 -78.74)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (pin passive line (at -12.7 0 0) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
@@ -9001,7 +9522,8 @@
     )
     (symbol "XC7Z010-1CLG225C_5_1"
       (rectangle (start -25.4 6.35) (end 25.4 -72.39)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (pin input line (at 30.48 -2.54 180) (length 5.08)
         (name "PS_DDR_DQ1_502" (effects (font (size 1.27 1.27))))
@@ -9215,7 +9737,8 @@
     )
     (symbol "XC7Z010-1CLG225C_6_1"
       (rectangle (start 13.97 6.35) (end -13.97 -20.32)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (pin input line (at 19.05 -10.16 180) (length 5.08)
         (name "IO_L2P_T0_AD8P_35" (effects (font (size 1.27 1.27))))
@@ -9251,11 +9774,12 @@
       )
     )
     (symbol "XC7Z010-1CLG225C_7_0"
+      (rectangle (start -8.89 6.35) (end 8.89 -50.8)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "Bank 500" (at -0.635 3.429 0)
         (effects (font (size 1.524 1.524)))
-      )
-      (rectangle (start -8.89 6.35) (end 8.89 -50.8)
-        (stroke (width 0)) (fill (type background))
       )
     )
     (symbol "XC7Z010-1CLG225C_7_1"
@@ -9333,11 +9857,12 @@
       )
     )
     (symbol "XC7Z010-1CLG225C_8_0"
+      (rectangle (start -8.89 6.35) (end 8.89 -50.8)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (text "Bank 501" (at 0 3.81 0)
         (effects (font (size 1.524 1.524)))
-      )
-      (rectangle (start -8.89 6.35) (end 8.89 -50.8)
-        (stroke (width 0)) (fill (type background))
       )
     )
     (symbol "XC7Z010-1CLG225C_8_1"
@@ -9411,7 +9936,7 @@
       )
     )
   )
-  (symbol "nqbit:gopro" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "gopro" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 6.35 0)
       (effects (font (size 1.524 1.524)))
     )
@@ -9426,7 +9951,8 @@
     )
     (symbol "gopro_0_1"
       (rectangle (start -22.86 5.08) (end 22.86 -60.96)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "gopro_1_1"
@@ -9552,7 +10078,7 @@
       )
     )
   )
-  (symbol "nqbit:sparkfun_pro_micro_qwiic" (in_bom yes) (on_board yes)
+  (symbol "sparkfun_pro_micro_qwiic" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -30.48 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -9567,7 +10093,8 @@
     )
     (symbol "sparkfun_pro_micro_qwiic_0_1"
       (rectangle (start -10.16 27.94) (end 10.16 -27.94)
-        (stroke (width 0.1524)) (fill (type background))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "sparkfun_pro_micro_qwiic_1_1"
