@@ -1,4 +1,4 @@
-(footprint "SMA_Amphenol_132289_EdgeMount" (version 20211014) (generator pcbnew)
+(footprint "SMA_Amphenol_132255RP_EdgeMount" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5A1C1810)
   (descr "http://www.amphenolrf.com/132289.html")
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 97183b73-31c1-4e3f-b871-1f3c921e8326)
   )
-  (fp_text value "SMA_Amphenol_132289_EdgeMount" (at 5 6) (layer "F.Fab")
+  (fp_text value "SMA_Amphenol_132255RP_EdgeMount" (at 5 6) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c4f521e5-db6e-4dcf-9ed9-003e94aca6ab)
   )
@@ -46,9 +46,9 @@
   (pad "2" smd rect (at 0 -4.25 90) (size 1.5 5.08) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37edef0f-e8a6-4de9-a1fe-3dc77e3f8a40))
   (pad "2" smd rect (at 0 -4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9115563a-5c91-4d9e-9fd6-c4788995231b))
   (pad "2" smd rect (at 0 4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e18fd33f-be34-4a66-a5ae-cfc11eff5687))
-  (model "//wsl.localhost/Ubuntu/home/nqbit/dev/nqbit.3d/132289.stp"
-    (offset (xyz 3.48499999 0 0.4999999906))
+  (model "//wsl.localhost/Ubuntu/home/nqbit/dev/nqbit.3d/132255RP.stp"
+    (offset (xyz -3.5 0 0.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 180))
+    (rotate (xyz -90 0 0))
   )
 )
